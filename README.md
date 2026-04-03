@@ -34,17 +34,16 @@
 提交 Issue 或 Pull Request 前，请先阅读 [贡献指南](docs/CONTRIBUTING.md)（待创建）。
 
 ## 📅 开发路线图
-```mermaid
-gantt
-    title VirtualClassroomAI 开发阶段
-    dateFormat  YYYY-MM
-    section 基础搭建
-    仓库初始化       :done, 2026-04
-    技术栈确认       :active, 2026-04
-    section MVP 原型
-    2D 教室+基础对话 :2026-05, 45d
-    AI 分段解析引擎  :2026-05, 30d
-    section 进阶功能
-    黑板板书系统     :2026-07, 60d
-    虚拟同学/奖励机制:2026-08, 45d
-    多格式书籍支持   :2026-09, 30d
+
+**Phase 1 - 基础搭建（2026-04）**
+- ✅ 仓库初始化
+- ⬜ 技术栈确认
+
+**Phase 2 - MVP 原型（2026-05）**
+- ⬜ 2D 教室+基础对话
+- ⬜ AI 分段解析引擎
+
+**Phase 3 - 进阶功能（2026-07 至 2026-09）**
+- ⬜ 黑板板书系统
+- ⬜ 虚拟同学/奖励机制
+- ⬜ 多格式书籍支持
