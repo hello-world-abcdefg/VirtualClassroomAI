@@ -1,0 +1,32 @@
+# 通用
+node_modules/
+.DS_Store
+.env
+*.log
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Unity（如果后续选用）
+Library/
+Temp/
+Obj/
+Logs/
+*.csproj
+*.unityproj
+*.sln
+
+# Web/Node
+dist/
+build/
+*.tsbuildinfo
+
+# 3D/设计源文件（体积大，建议用 Git LFS 或云盘）
+*.blend
+*.fbx
+*.psd
+*.aep
